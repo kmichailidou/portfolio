@@ -1,5 +1,5 @@
 title: Kiki Michailidou
-theme: jeykll-theme-minimal 
+# theme: jeykll-theme-minimal 
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
